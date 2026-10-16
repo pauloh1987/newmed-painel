@@ -1,0 +1,3 @@
+-- Dados de apoio para desenvolvimento local (`supabase db reset`).
+-- O catálogo real da Newmed já vem da migration 20261014000004_catalogo_newmed.sql,
+-- então não há nada a semear aqui. Depoimentos, parceiros e posts são cadastrados pelo painel.
